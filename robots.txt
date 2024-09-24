@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://smoam.github.io/tNt/sitemap.tNt.gz
